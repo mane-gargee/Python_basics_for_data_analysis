@@ -1,5 +1,5 @@
 # Python_basics_for_data_analysis
-* Functions
+* Python Functions
 * Types and Sequences
 * Strings
 * Reading and Writing CSV files
